@@ -3,6 +3,8 @@
 
 # 技术栈
 react+webpack
+
+# 操作
 git clone代码，执行cnpm install,全局安装webpack-dev-server,之后进入对应目录执行webpack-dev-server --contentbase src --inline --hot
 
 # 预览效果

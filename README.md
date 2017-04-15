@@ -11,28 +11,36 @@ git clone代码，执行cnpm install,全局安装webpack-dev-server,之后进入
 ![image](https://github.com/hjchen/reactNews/blob/master/src/images/index2.png)
 
 - 移动端
+
 ![image](https://github.com/hjchen/reactNews/blob/master/src/images/m-index.png)
 
 - 新闻详情页(PC)
+
 ![image](https://github.com/hjchen/reactNews/blob/master/src/images/news.png)
 
 - 移动端
-![image](https://github.com/hjchen/reactNews/blob/master/src/images/m-news.png)
+
+![image](https://github.com/hjchen/reactNews/blob/master/src/images/m-news.jpg)
 
 - 新闻评论页(PC)
+
 ![image](https://github.com/hjchen/reactNews/blob/master/src/images/comment.png)
 
 - 用户登录页(PC)
+
 ![image](https://github.com/hjchen/reactNews/blob/master/src/images/login.png)
 
 - 移动端
-![image](https://github.com/hjchen/reactNews/blob/master/src/images/m-login.png)
+
+![image](https://github.com/hjchen/reactNews/blob/master/src/images/m-login.jpg)
 
 - 用户中心页(PC)
+
 ![image](https://github.com/hjchen/reactNews/blob/master/src/images/user.png)
 
 - 移动端
-![image](https://github.com/hjchen/reactNews/blob/master/src/images/m-user.png)
+
+![image](https://github.com/hjchen/reactNews/blob/master/src/images/m-user.jpg)
 
 
 

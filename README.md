@@ -2,7 +2,7 @@
 利用react.js实现，适配PC端和移动端的新闻头条平台
 
 # 技术栈
-react+webpack
+react(15.3.2)+webpack
 
 # 操作
 git clone代码，执行cnpm install,全局安装webpack-dev-server,之后进入对应目录执行webpack-dev-server --contentbase src --inline --hot
